@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @StaraaX
+/src/backend/database.py      @StaraaX
+/src/backend/routers/auth.py  @StaraaX
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @StaraaX
